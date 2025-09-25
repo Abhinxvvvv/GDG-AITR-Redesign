@@ -1,4 +1,7 @@
- gdg-aitr official website Redesign
+ gdg-aitr official website Redesign and also includes registration feature for events of gdg aitr
+
+
+ 
  You can use the html code given to see the preview of the website or the live deployed URL is given below:
 
 
